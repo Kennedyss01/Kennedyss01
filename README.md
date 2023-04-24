@@ -5,6 +5,7 @@
 
 ![Kennedy GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedyss01&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyss01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 
@@ -22,4 +23,4 @@
 Studying programming. A new day = a new learning
 
 ## Contact:
-- [Email](fundacaokennedy9a@gmail.com)
+- [Email](mailto:fundacaokennedy9a@gmail.com)
